@@ -1,0 +1,4 @@
+Ridge Regression for TotalCharges
+MAE: 371.20
+RMSE: 480.29
+R2: 0.9004

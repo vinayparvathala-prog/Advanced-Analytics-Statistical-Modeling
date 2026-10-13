@@ -1,0 +1,3 @@
+ADF statistic: -0.6772
+p-value: 0.852575
+Interpretation: evidence of non-stationarity at 5% significance.

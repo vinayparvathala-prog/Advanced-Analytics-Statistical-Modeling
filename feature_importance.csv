@@ -1,0 +1,11 @@
+Feature,Importance
+numeric__MonthlyCharges,0.27360396872113973
+numeric__TenureMonths,0.2446466096201744
+numeric__TotalCharges,0.2413793859247386
+numeric__SupportCalls,0.11127086654472014
+categorical__ContractType_Month-to-month,0.03622394920621664
+categorical__InternetService_DSL,0.02187484267029541
+categorical__InternetService_Fiber,0.021701051118537977
+categorical__InternetService_No internet,0.017688714457147627
+categorical__ContractType_One year,0.01691752400465364
+categorical__ContractType_Two year,0.014693087732375619
